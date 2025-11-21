@@ -1,0 +1,5 @@
+id,name,class,attendance_pct,grades_avg,num_failed_subjects,family_income_bracket,parent_education_level,parent_occupation,distance_to_school,transport_available,extracurricular_participation,disciplinary_records,chronic_health_issues,nutrition_status,teacher_student_ratio,parent_meeting_attendance,intervention_history,dropout_probability_percent,risk_level
+,,,68.7,45.1,0,medium,higher,service,0.7,1,1,1,1,normal,43.7,4,home_visit,14.5,Low Risk
+,,,97.5,51.7,3,medium,secondary,service,10,1,0,0,0,underweight,27.8,1,extra_classes,5.5,Low Risk
+,,,86.6,45.6,2,low,secondary,labor,12.4,0,0,1,1,underweight,29.3,2,counseling,33.0,Low Risk
+,,,79.9,40.3,0,low,secondary,service,11.8,0,1,2,0,overweight,41.9,3,none,11.0,Low Risk
